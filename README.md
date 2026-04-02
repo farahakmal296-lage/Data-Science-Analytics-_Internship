@@ -59,7 +59,7 @@ To achieve a reliable prediction, the following systematic approach was followed
 ### **Model Training**
 * **Data Splitting:** Divided the dataset into **80% training** and **20% testing** sets to validate performance.
 * **Algorithm:** Trained a **Logistic Regression** classifier using the Scikit-Learn library.
-* **Optimization:** Increased iterations (`max_iter=1000`) and used scaled data to ensure model convergence and stability.
+* **Optimization:** Increased iterations (`max_iter=3000`) and used scaled data to ensure model convergence and stability.
 
 ## 3. Results and Insights
 
