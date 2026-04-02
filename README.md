@@ -18,7 +18,3 @@ The primary goal of this task is to perform Exploratory Data Analysis (EDA) on t
 * The **Setosa** species is found to be significantly smaller and easily distinguishable from others.
 * A strong correlation is observed between petal measurements and species classification.
 * No missing values were detected, confirming the reliability of the dataset.
-
----
-*Internship: DevelopersHub Corporation*
-*Student: Farah Akmal*
